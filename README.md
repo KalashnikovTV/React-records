@@ -8,7 +8,7 @@
 - Adding favorites
 - Adding likes
 
-**Watch => url**
+**Watch => https://kalashnikovtv.github.io/React-records/**
 
 ## Getting Started with Create React App
 
